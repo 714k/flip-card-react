@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 1em;
+  font-family: sans-serif;
+}
+p {
+  margin-top: 6em;
+  clear: both;
+}
+button {
+  border: none;
+  background-color: #751808;
+  color: white;
+  font-size: 1.25em;
+  padding: 0.5em 1.5em;
+}
